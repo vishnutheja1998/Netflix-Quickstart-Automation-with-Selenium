@@ -56,6 +56,7 @@ python3 netflix_quickstart.py
 
 > * Ensure Chrome is closed if you’re using your default profile.
 > * On first run with a new Selenium profile you’ll need to sign into Netflix manually.
+> * Ask's for movie title to search
 
 ---
 
@@ -67,6 +68,3 @@ python3 netflix_quickstart.py
 
 ---
 
-## 📄 License
-
-MIT License
