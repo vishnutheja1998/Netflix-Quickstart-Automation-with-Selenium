@@ -5,7 +5,7 @@ This project automates the following actions on Netflix using Python and Seleniu
 1. Launches Chrome using your own Chrome profile
 2. Skips login (since you’re already signed in)
 3. Selects the **“Sravya”** profile (if prompted)
-4. Searches for the movie **"The Wild Robot"**
+4. Prompts for ask an input to search a movie. 
 5. Clicks the movie to open the preview
 6. Clicks the **Resume** or **Play** button
 7. Enters fullscreen mode by clicking the player fullscreen button
